@@ -52,7 +52,9 @@ function ImgUpload() {
       console.error('Error uploading file:', error);
       // Handle error
     }
-    // window.location.reload()
+    
+    setShowModal(false);
+    window.location.reload()
   };
 
   const handleToggleModal = () => {

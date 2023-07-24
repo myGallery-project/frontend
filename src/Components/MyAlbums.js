@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import { Link, useParams } from 'react-router-dom';
 import CreateAlbum from './CreateAlbum';
-import { Nav, Navbar, Container, Button, Modal, Form,  Row, Col, } from 'react-bootstrap';
+import { Nav, Navbar, Container, Button, Row} from 'react-bootstrap';
 
 function MyAlbums() {
   const authToken = localStorage.getItem('token');

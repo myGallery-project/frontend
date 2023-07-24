@@ -1,8 +1,8 @@
 
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-import { Container, Row, Col, Button, Modal, Form, Card } from 'react-bootstrap';
-import { AiOutlineHeart, AiOutlineMessage } from 'react-icons/ai';
+import { Row, Col, Button, Modal, Form, Card } from 'react-bootstrap';
+import { AiOutlineHeart } from 'react-icons/ai';
 
 function ShowImages() {
   const [images, setImages] = useState([]);
@@ -150,14 +150,14 @@ function ShowImages() {
         </Form.Group>
       </div>
 
-      <div className="bg-info">
+      <div className="">
         {/* Images */}
         <div>
           <Row className="justify-content-center">
             {filterImages().map((image) => (
               <Col key={image._id} md={4} className="mb-4 p-4">
                 <Card className="h-100">
-                  <Card.Body className="bg-secondary text-light justify-content-center">
+                  <Card.Body className=" text-secondary justify-content-center">
                     <Card.Title className="">Uploaded by: {image.senderName}</Card.Title>
                     <Card.Img
                       src={`http://localhost:5000/api/upload/${image.img}`}

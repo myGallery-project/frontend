@@ -20,10 +20,12 @@ const CreateAlbum = () => {
       // Clear the input field after successful album creation
       setAlbumName('');
       // Close the modal after album creation
-      setShowModal(false);
+     
     } catch (error) {
       console.error('Error creating album:', error);
     }
+    setShowModal(false);
+    window.location.reload()
   };
 
   return (

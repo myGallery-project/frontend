@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { Nav, Navbar, Container, Button, Modal, Form } from 'react-bootstrap';
+import React from 'react';
+import { Nav, Navbar, Container, Button} from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import ShowImages from '../Components/ShowImages';
 import ImgUpload from '../Components/ImgUpload';
@@ -8,17 +8,17 @@ import ImgUpload from '../Components/ImgUpload';
 
 
 export default function Gallery() {
-  const [showModal, setShowModal] = useState(false);
-  const [albumName, setAlbumName] = useState('');
+  // const [showModal, setShowModal] = useState(false);
+  // const [albumName, setAlbumName] = useState('');
 
-  const handleCreateAlbum = () => {
-    // Add your logic here to handle album creation
-    console.log('Creating album:', albumName);
+  // const handleCreateAlbum = () => {
+  //   // Add your logic here to handle album creation
+  //   console.log('Creating album:', albumName);
 
-    // Close the modal after album creation
-    setShowModal(false);
-    setAlbumName('');
-  };
+  //   // Close the modal after album creation
+  //   setShowModal(false);
+  //   setAlbumName('');
+  // };
 
   return (
     <>
