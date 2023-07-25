@@ -7,4 +7,3 @@
 ![Screenshot (64)](https://github.com/myGallery-project/frontend/assets/72642513/6b746a41-734c-40c4-aa60-681bf8c3ae3c)
 ![Screenshot (65)](https://github.com/myGallery-project/frontend/assets/72642513/ce88da72-c7cd-4bd3-87b6-e0f720c1c0e4)
 ![Screenshot (66)](https://github.com/myGallery-project/frontend/assets/72642513/0ad790c5-e30f-4250-b672-a490eecb60f6)
-![Screenshot (59)](https://github.com/myGallery-project/frontend/assets/72642513/f2ea1984-3db5-488e-a760-76055de25637)
