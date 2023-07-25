@@ -1,70 +1,10 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot (1)](https://github.com/myGallery-project/frontend/assets/72642513/c7222e84-06e6-455a-b9ca-70f80224c56c)
+![Screenshot (2)](https://github.com/myGallery-project/frontend/assets/72642513/00b38e9b-59ec-4659-b586-f14710ad516f)
+![Screenshot (70)](https://github.com/myGallery-project/frontend/assets/72642513/abe366bb-0486-4620-9a8b-c2284293e46b)
+![Screenshot (71)](https://github.com/myGallery-project/frontend/assets/72642513/97b7c1db-b22f-40ea-b294-44cc01c4ecba)
+![Screenshot (72)](https://github.com/myGallery-project/frontend/assets/72642513/1b6907bd-5a34-40c1-a2e6-3b2a40bcc59e)
+![Screenshot (62)](https://github.com/myGallery-project/frontend/assets/72642513/e735ecb9-ba8c-4317-8341-1f11a03fe2d7)
+![Screenshot (64)](https://github.com/myGallery-project/frontend/assets/72642513/6b746a41-734c-40c4-aa60-681bf8c3ae3c)
+![Screenshot (65)](https://github.com/myGallery-project/frontend/assets/72642513/ce88da72-c7cd-4bd3-87b6-e0f720c1c0e4)
+![Screenshot (66)](https://github.com/myGallery-project/frontend/assets/72642513/0ad790c5-e30f-4250-b672-a490eecb60f6)
+![Screenshot (59)](https://github.com/myGallery-project/frontend/assets/72642513/f2ea1984-3db5-488e-a760-76055de25637)
